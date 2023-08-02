@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 feat A is not finished
 feat B is not finished
 
 doc feat A
+=======
+feat B is not finished
+
+>>>>>>> 8dee1c4 (doc feat B)
 doc feat B
